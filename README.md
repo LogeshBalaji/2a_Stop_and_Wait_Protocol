@@ -45,5 +45,6 @@ Refer to the screenshot below to see the program's output.
 ## Client
 
 <img width="700" height="137" alt="image" src="https://github.com/user-attachments/assets/b9d8e5b7-9db5-48e0-a534-111c1fe33389" />
+
 ## RESULT
 Thus, python program to perform stop and wait protocol was successfully executed.
